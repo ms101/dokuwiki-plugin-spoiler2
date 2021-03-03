@@ -22,7 +22,7 @@ class syntax_plugin_spoiler extends DokuWiki_Syntax_Plugin {
 		return array(
 			'author' => 'halbbit',
 			'email'  => 'supp3@gmx.net',
-			'date'   => '2021-02-14',
+			'date'   => '2021-03-03',
 			'name'   => 'spoiler2 plugin',
 			'desc'   => 'Add <spoiler> tag, allowing sections that are initially hidden and can be made visible by clicking on a button. Another click will hide the spoiler again',
 			'url'    => 'http://wiki.splitbrain.org/plugin:spoiler2',
